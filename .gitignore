@@ -1,0 +1,23 @@
+# Credentials
+client_secrets.json
+youtube_token.json
+
+# Directories
+temp/
+output_videos/
+background_videos/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
