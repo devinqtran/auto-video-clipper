@@ -135,8 +135,6 @@ TikTok doesn't provide an official API for uploads. The current implementation i
 
 ## License
 
-[Your License Here]
-
 ## Disclaimer
 
 This tool should be used responsibly and in accordance with YouTube and TikTok's terms of service. Always respect copyright and fair use guidelines when creating derivative content.
